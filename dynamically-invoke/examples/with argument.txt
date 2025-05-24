@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RxrityVPN
+{
+    internal class Program
+    {
+        public static void method(string msg)
+        {
+            Console.WriteLine(msg);
+        }
+
+        static void Main(string[] args)
+        {
+            method(args[0]);
+        }
+    }
+}
