@@ -9,5 +9,5 @@ Pre-Compiled encryption ( If your key and IV ins't discoverable in DnSpy )
 
 I can't be asked actually putting this out so Imma shit post this. (Did more than I wanted but also re-made the whole program so)
 
-#Warning!!
+# Warning!!
 Don't be a fucking skid and use this for malicious purposes. 
