@@ -10,7 +10,7 @@ namespace RxrityVPN
     {
         public static void method()
         {
-            Console.WriteLine(""Hello World! <3"");
+            Console.WriteLine("Hello World! <3");
         }
 
         static void Main(string[] args)
