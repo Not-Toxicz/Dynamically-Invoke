@@ -10,23 +10,21 @@ namespace dynamically_invoke
     {
         static string codetext =
             @"
-                using System;
+                ﻿using System;
                 using System.Collections.Generic;
                 using System.Linq;
-                using System.Runtime.CompilerServices;
                 using System.Text;
                 using System.Threading.Tasks;
-
+                
                 namespace RxrityVPN
                 {
                     internal class Program
                     {
-                        private static string info = ""I might kiss you"";
-                        public static string method()
+                        public static void method()
                         {
-                            return info;
+                            Console.WriteLine(""Hello World! <3"");
                         }
-
+                
                         static void Main(string[] args)
                         {
                             method();
